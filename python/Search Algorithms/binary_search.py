@@ -1,11 +1,6 @@
 """
 This is pure python implementation of binary search algorithm
 
-For doctests run following command:
-python -m doctest -v binary_search.py
-or
-python3 -m doctest -v binary_search.py
-
 For manual testing run:
 python binary_search.py
 """
